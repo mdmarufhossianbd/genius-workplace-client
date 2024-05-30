@@ -1,6 +1,18 @@
 # Genius Workplace Frontend
 Live link : [Genius WorkPlace](https://genius-workplace.web.app/)
 
+# ENV Example
+
+```
+VITE_APIKEY=FIREBASE_APIKEY
+VITE_AUTHDOMAIN=FIREBASE_AUTHDOMAIN
+VITE_PROJECTID=FIREBASE_PROJECTID
+VITE_STORAGEBUCKET=FIREBASE_STORAGEBUCKET
+VITE_MESSAGINGSENDERID=FIREBASE_MESSAGINGSENDERID
+VITE_APPID=FIREBASE_APPID
+VITE_API_URL=BACKEND_URL
+```
+
 Welcome to the frontend of Genius Workplace, an innovative platform designed to transform the way we work and collaborate. This repository contains the frontend code built with React, providing an intuitive and responsive user interface for the application.
 
 # Technologies Used
